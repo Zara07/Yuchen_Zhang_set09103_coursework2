@@ -1,0 +1,11 @@
+.background-pic
+{
+background-image:url("../../static/images/bg.jpg");
+background-attachment:fixed;
+background-repeat:no-repeat;
+background-size:cover;
+}
+
+.theme-showcase > p > .btn {
+  margin: 5px 0;
+}
